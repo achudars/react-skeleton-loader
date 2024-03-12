@@ -1,5 +1,5 @@
 {
-  "name": "react-skeleton-loader",
+  "name": "@achudars/react-skeleton-loader",
   "version": "2.0.0",
   "description": "A react helper for skeleton loaders",
   "main": "dist/Skeleton.js",
@@ -12,9 +12,12 @@
     "prepublishOnly": "npm run build"
   },
   "author": "Henrikas Kuzmickas <henry.kuzmick@gmail.com>",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/henrykuzmick/react-skeleton-loader.git"
+    "url": "https://github.com/achudars/react-skeleton-loader.git"
   },
   "license": "MIT",
   "keywords": [
