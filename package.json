@@ -3,6 +3,7 @@
   "version": "2.0.0",
   "description": "A react helper for skeleton loaders",
   "main": "dist/Skeleton.js",
+  "module": "dist/Skeleton.mjs",
   "scripts": {
     "build": "webpack",
     "deploy-storybook": "storybook-to-ghpages",
@@ -31,7 +32,7 @@
   "devDependencies": {
     "@babel/preset-env": "^7.24.0",
     "@babel/preset-react": "^7.23.3",
-    "@chromatic-com/storybook": "^1.2.18",
+    "@chromatic-com/storybook": "^1.2.19",
     "@storybook/addon-actions": "^8.0.0",
     "@storybook/addon-essentials": "^8.0.0",
     "@storybook/addon-interactions": "^8.0.0",
@@ -61,7 +62,7 @@
     "eslint-plugin-react": "^7.34.0",
     "eslint-plugin-standard": "^4.1.0",
     "eslint-plugin-storybook": "^0.8.0",
-    "flow-bin": "^0.230.0",
+    "flow-bin": "^0.231.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "storybook": "^8.0.0",
