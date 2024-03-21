@@ -30,9 +30,9 @@
     "dummy"
   ],
   "devDependencies": {
-    "@babel/preset-env": "^7.24.1",
+    "@babel/preset-env": "^7.24.3",
     "@babel/preset-react": "^7.24.1",
-    "@chromatic-com/storybook": "^1.2.23",
+    "@chromatic-com/storybook": "^1.2.25",
     "@storybook/addon-actions": "^8.0.2",
     "@storybook/addon-essentials": "^8.0.2",
     "@storybook/addon-interactions": "^8.0.2",
@@ -68,7 +68,7 @@
     "storybook": "^8.0.2",
     "style-loader": "^3.3.4",
     "uglify-js": "^3.17.4",
-    "webpack": "^5.90.3",
+    "webpack": "^5.91.0",
     "webpack-cli": "^5.1.4"
   },
   "eslintConfig": {
