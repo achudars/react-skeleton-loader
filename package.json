@@ -38,7 +38,7 @@
     "@storybook/addon-interactions": "^8.2.6",
     "@storybook/addon-links": "^8.2.6",
     "@storybook/addon-onboarding": "^8.2.6",
-    "@storybook/addon-webpack5-compiler-swc": "^1.0.4",
+    "@storybook/addon-webpack5-compiler-swc": "^1.0.5",
     "@storybook/blocks": "^8.2.6",
     "@storybook/react": "^8.2.6",
     "@storybook/react-webpack5": "^8.2.6",
@@ -67,7 +67,7 @@
     "react-dom": "^18.3.1",
     "storybook": "^8.2.6",
     "style-loader": "^3.3.4",
-    "uglify-js": "^3.19.0",
+    "uglify-js": "^3.19.1",
     "webpack": "^5.93.0",
     "webpack-cli": "^5.1.4"
   },
