@@ -61,7 +61,7 @@
     "eslint-plugin-promise": "^6.6.0",
     "eslint-plugin-react": "^7.37.1",
     "eslint-plugin-standard": "^4.1.0",
-    "eslint-plugin-storybook": "^0.9.0",
+    "eslint-plugin-storybook": "^0.10.1",
     "flow-bin": "^0.250.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
