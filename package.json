@@ -68,7 +68,7 @@
     "storybook": "^8.6.12",
     "style-loader": "^3.3.4",
     "uglify-js": "^3.19.3",
-    "webpack": "^5.99.6",
+    "webpack": "^5.99.7",
     "webpack-cli": "^5.1.4"
   },
   "eslintConfig": {
