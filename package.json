@@ -30,7 +30,7 @@
     "dummy"
   ],
   "devDependencies": {
-    "@babel/preset-env": "^7.27.1",
+    "@babel/preset-env": "^7.27.2",
     "@babel/preset-react": "^7.27.1",
     "@chromatic-com/storybook": "^1.9.0",
     "@storybook/addon-actions": "^8.6.12",
@@ -68,7 +68,7 @@
     "storybook": "^8.6.12",
     "style-loader": "^3.3.4",
     "uglify-js": "^3.19.3",
-    "webpack": "^5.99.7",
+    "webpack": "^5.99.8",
     "webpack-cli": "^5.1.4"
   },
   "eslintConfig": {
