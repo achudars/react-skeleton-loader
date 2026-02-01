@@ -30,7 +30,7 @@
     "dummy"
   ],
   "devDependencies": {
-    "@babel/preset-env": "^7.28.6",
+    "@babel/preset-env": "^7.29.0",
     "@babel/preset-react": "^7.28.5",
     "@chromatic-com/storybook": "^1.9.0",
     "@storybook/addon-actions": "^8.6.15",
