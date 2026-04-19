@@ -69,7 +69,7 @@
     "style-loader": "^4.0.0",
     "uglify-js": "^3.19.3",
     "webpack": "^5.106.2",
-    "webpack-cli": "^5.1.4"
+    "webpack-cli": "^7.0.2"
   },
   "eslintConfig": {
     "extends": [
